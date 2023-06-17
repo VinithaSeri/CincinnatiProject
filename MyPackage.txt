@@ -6,7 +6,7 @@ CREATE OR REPLACE PACKAGE your_package_name IS
     Author: Your Name
     Date: DD-MON-YYYY
     Version: 1.0
-    
+    Vesion 1.1
     Version Change History:
     -----------------------
     Version 1.0 - DD-MON-YYYY
