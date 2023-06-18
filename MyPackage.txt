@@ -1,4 +1,5 @@
 CREATE OR REPLACE PACKAGE your_package_name IS created mine
+Very good
 
     /*
     Package: your_package_name
